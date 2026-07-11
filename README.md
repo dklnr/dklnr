@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Instagram](https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=todoist&logoColor=white)](https://github.com/dklnr)
+[![Instagram](https://img.shields.io/badge/Portfolio-8b5cf6?style=for-the-badge&logo=todoist&logoColor=white)](https://www.instagram.com/_dklnr_?igsh=MXNrY2VxMHFsdzdpbw%3D%3D&utm_source=qr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dklnr)
 [![Email](https://img.shields.io/badge/Email-4c1d95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darshanlonare.tech@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1a0b2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dklnr)
