@@ -35,10 +35,7 @@
 name: "Darshan Kailas Lonare"
 role: "Java Backend Developer | Full Stack Developer"
 experience: "2+ Years"
-['# 👋 Welcome to **World of codewithdklnr** 🚀
-
-> ⚠️ **My previous GitHub account was compromised.** This is my new official profile, where I'll gradually upload Java, Spring Boot, Full Stack, and Open Source projects. ⭐ Thank you for your support—follow the profile and stay tuned!
-]
+                                               👋### 👋 Welcome to World of codewithdklnr 🚀
 ```
 
 I'm a **Java Backend Developer** with **2+ years of experience** designing and building scalable, secure, high-performance enterprise applications using **Java, Spring Boot, Hibernate, REST APIs, and Microservices Architecture**. I care deeply about clean code, SOLID principles, and systems that stay reliable under real production load.
