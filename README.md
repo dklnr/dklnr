@@ -22,7 +22,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dklnr&color=6d28d9&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/dklnr?color=7c3aed&style=flat-square&label=Followers5k)
+![Followers](https://img.shields.io/github/followers/dklnr?color=7c3aed&style=flat-square&label=Followers)
 ![Stars](https://img.shields.io/github/stars/dklnr?color=8b5cf6&style=flat-square&label=Stars)
 
 </div>
