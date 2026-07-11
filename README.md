@@ -3,8 +3,7 @@
 ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:4c1d95,100:6d28d9&height=220&section=header&text=Darshan%20Kailas%20Lonare&fontSize=42&fontColor=e9d5ff&animation=fadeIn&fontAlignY=35&desc=Java+Full%20Stack%20Developer&descAlignY=55&descSize=18)
 
 <a href="https://github.com/dklnr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=# 👋 Welcome to **World of codewithdklnr** 🚀
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&linesfont=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Backend+Developer+%7C+Spring+Boot+%7C+Microservices;Building+Scalable%2C+Secure%2C+High-Performance+APIs;" alt="Typing SVG" />
 </a>
 
 <br/>
