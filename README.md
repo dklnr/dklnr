@@ -5,7 +5,6 @@
 <a href="https://github.com/dklnr">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=# 👋 Welcome to **World of codewithdklnr** 🚀
 
-> ⚠️ **My previous GitHub account was compromised.** This is my new official profile, where I'll gradually upload Java, Spring Boot, Full Stack, and Open Source projects. ⭐ Thank you for your support—follow the profile and stay tuned!;" alt="Typing SVG" />
 </a>
 
 <br/>
