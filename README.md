@@ -33,7 +33,7 @@
 
 ```yaml
 name: "Darshan Kailas Lonare"
-role: "Java Backend Developer | Full Stack Enthusiast"
+role: "Java Backend Developer | Full Stack Developer"
 experience: "2+ Years"
 focus: ["Scalable Backend Systems", "Microservices Architecture", "Secure REST APIs"]
 ```
