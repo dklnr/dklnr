@@ -8,7 +8,7 @@
 
 <br/>
 
-![MCA](https://img.shields.io/badge/MCA-Dr.%20D.Y.%20Patil%20School%20of%20MCA-4c1d95?style=flat-square&logo=graduation-cap&logoColor=white)
+![MCA]((https://img.shields.io/badge/MCA-Dr.%20D.Y.%20Patil%20School%20of%20MCA-4c1d95?style=flat-square&logo=graduation-cap&logoColor=white)(https://dypsomca.com/))
 ![BSc](https://img.shields.io/badge/B.Sc.%20Computer%20Science-KTHM%20College-6d28d9?style=flat-square)
 ![Location](https://img.shields.io/badge/📍-Pune,%20Maharashtra,%20India-7c3aed?style=flat-square)
 
