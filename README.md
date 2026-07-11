@@ -32,13 +32,11 @@
 ### 🧠 About Me
 
 ```yaml ##                                                            
-                                                             ⚠️ Important Notice
+                                                               ⚠️ Important Notice
 My previous GitHub account was compromised and is no longer accessible. This is my new official profile, where I will gradually publish Java, Spring Boot, Full Stack, and Open Source projects.
 Thank you for your continued support—stay tuned for upcoming projects! 🚀
 
-name: "Darshan Kailas Lonare"
-role: "Java Backend Developer | Full Stack Developer"
-experience: "2+ Years"
+
                                                          Welcome to World of codewithdklnr 🚀
                               
 ```
